@@ -1,1 +1,1 @@
-I'll be creating a User Management System using Object-Oriented Programming (OOP) principles in PHP. This will involve connecting to a database using OOP for performing CRUD operations on user records.
+I'll be creating a User Management System using Object-Oriented Programming (OOP)principles in PHP. This will involve connecting to a database using OOP for performing CRUD operations on user records.
